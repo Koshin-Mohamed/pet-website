@@ -10,12 +10,10 @@ This website's pupose is to show love for my pet dragon, and is free for anyone 
 
 ## Setup/Installation Requirements
 
-- This is a great place
-- to list setup instructions
-- in a simple
-- easy-to-understand
-- format
-  {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+- Download or clone project
+- Create your own reporitory
+- View on browser
+- All that is required is a computer with internet access
 
 ## Known Bugs
 
