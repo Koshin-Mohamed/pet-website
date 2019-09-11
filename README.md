@@ -10,10 +10,9 @@ This website's pupose is to show love for my pet dragon, and is free for anyone 
 
 ## Setup/Installation Requirements
 
-- Download or clone project
-- Create your own reporitory
-- View on browser
-- All that is required is a computer with internet access
+- Download or clone project git clone heres https://github.com/Koshin-Mohamed/pet-website.git
+- cd pet-website
+- code . or atom .
 
 ## Known Bugs
 
